@@ -14,4 +14,4 @@ According to the [Yamcs Server Manual - Configuration](https://docs.yamcs.org/ya
 - ARRC-IPCAM.2
 - ARRC-IPCAM.3
 
-  **Solution for now:** Write a preprocessor class from scratch.
+**Solution for now:** Write a preprocessor class from scratch according to the manual.
