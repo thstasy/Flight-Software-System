@@ -21,6 +21,7 @@ The primary goal is to replace the original Python script with a Yamcs backend. 
 ### Project Breakdown
 
 The project can be broken down into six key steps:
+![MCP Structure Comparison](MCP_Structure_Comparison.png)
 
 1. **Data Source to Server Port:** 
    - Data is sent from the Data Source (such as a Data Simulator or Data Replayer) via UDP/ZMQ to the Server Port (Yamcs).
