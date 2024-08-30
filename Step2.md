@@ -1,3 +1,3 @@
 ### Creating workable Yamcs instance configuration.  
-[YamcsServerManual- onfiguration](https://docs.yamcs.org/yamcs-server-manual/administration/configuration/)
+[Yamcs Server Manual - configuration](https://docs.yamcs.org/yamcs-server-manual/administration/configuration/)
 Problem: Cannot find suitable preprocessor class for telemetry datasets.
