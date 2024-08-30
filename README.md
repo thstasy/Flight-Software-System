@@ -16,8 +16,7 @@ The project is divided into four main parts:
 ### General Concept
 
 The primary goal is to replace the original Python script with a Yamcs backend. The project structure is visualized as follows:
-
-![Yamcs_OpenMCT_DataFlow](image.png)
+![Yamcs OpenMCT Data Flow](Yamcs_OpenMCT_DataFlow.png)
 
 ### Project Breakdown
 
