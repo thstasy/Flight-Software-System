@@ -1,4 +1,4 @@
-# MCP_Yamcs+OpenMCT
+# MCP-Yamcs+OpenMCT
 
 This GitHub repository aims to integrate OpenMCT with Yamcs, using Yamcs as the backend and OpenMCT as the frontend.
 
